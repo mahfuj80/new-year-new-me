@@ -119,6 +119,20 @@ header {
 
 /* My Plan Section Start */
 
+.plan-heading {
+    text-align: center;
+}
+
+.plan-items {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+
+.plan-item {
+    text-align: center;
+}
+
 /* My Plan Section  End*/
 
 /* Main Section End */
