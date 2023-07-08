@@ -62,4 +62,63 @@ header {
 
 /* Main Section Start  */
 
+/* Failure Section start  */
+.failure {
+    display: flex;
+    margin: 161px 206px;
+    gap: 130px;
+}
+
+.failure-list-item {
+    display: flex;
+}
+
+.failure-ul {
+    list-style: none;
+    text-decoration: none;
+    padding: 0px;
+}
+
+.checkbox-ul {
+    list-style: none;
+    text-decoration: none;
+    padding: 0px;
+}
+
+.checkbox-ul>li {
+    margin-bottom: 10px;
+}
+
+.failure-ul>li {
+    margin-bottom: 10px;
+    color: #444343;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.failure-list {
+    margin-top: 180px;
+}
+
+.failure-heading {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.failure-description {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+/* Failure Section End */
+
+/* My Plan Section Start */
+
+/* My Plan Section  End*/
+
 /* Main Section End */
